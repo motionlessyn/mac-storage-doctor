@@ -1,0 +1,11 @@
+{
+  "name": "mac-storage-doctor",
+  "owner": { "name": "motionlessyn" },
+  "plugins": [
+    {
+      "name": "mac-storage-doctor",
+      "source": "./",
+      "description": "Audit and safely reclaim Mac disk space, including hidden space cleaners miss."
+    }
+  ]
+}

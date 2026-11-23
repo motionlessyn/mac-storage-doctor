@@ -1,0 +1,8 @@
+{
+  "name": "mac-storage-doctor",
+  "description": "Audit and safely reclaim Mac disk space, including the hidden gigabytes cleaners miss (swap, browser code-sign clones, apps hoarding old versions, silent AI models).",
+  "version": "1.0.0",
+  "author": { "name": "motionlessyn" },
+  "license": "MIT",
+  "keywords": ["macos", "disk", "storage", "cleanup", "cache"]
+}
